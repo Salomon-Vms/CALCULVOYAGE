@@ -1,0 +1,14 @@
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\bin\Debug\CALCULVOYAGE.exe.config
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\bin\Debug\CALCULVOYAGE.exe
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\bin\Debug\CALCULVOYAGE.pdb
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\bin\Debug\CALCULVOYAGE.xml
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.Form1.resources
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.Resources.resources
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.vbproj.GenerateResource.Cache
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.exe
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.xml
+C:\Users\VMS\AppData\Local\Temporary Projects\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.pdb
+C:\Users\VMS\Documents\Visual Studio 2012\Projects\CALCULVOYAGE\CALCULVOYAGE\bin\Debug\CALCULVOYAGE.exe.config
+C:\Users\VMS\Documents\Visual Studio 2012\Projects\CALCULVOYAGE\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.exe
+C:\Users\VMS\Documents\Visual Studio 2012\Projects\CALCULVOYAGE\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.xml
+C:\Users\VMS\Documents\Visual Studio 2012\Projects\CALCULVOYAGE\CALCULVOYAGE\obj\Debug\CALCULVOYAGE.pdb
